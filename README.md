@@ -1,7 +1,19 @@
 ## Time Series Forecasting with Novo Nordisk Stock Data
 This repository contains a time series forecasting project where I applied ARIMA and SARIMA models to predict Novo Nordisk stock prices. The dataset was sourced from Yahoo Finance.
 
-`Overview`
+`Problem Statement`
+
+The goal of this project is to perform a daily forecast for one month on Novo Nordisk stock data. 
+
+NOTE: Novo Nordisk is a global healthcare company specializing in diabetes care medications and devices.
+
+`Data Details`
+
+- Company: Novo Nordisk
+- Data Range: 10 years
+- Source: Yahoo Finance Novo Nordisk Historical Data
+
+`Approach`
 
 - Data Collection: Acquired stock price data for Novo Nordisk from Yahoo Finance.
   
