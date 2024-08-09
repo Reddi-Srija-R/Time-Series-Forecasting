@@ -11,7 +11,7 @@ NOTE: Novo Nordisk is a global healthcare company specializing in diabetes care 
 
 - Company: Novo Nordisk
 - Data Range: 10 years
-- Source: Yahoo Finance Novo Nordisk Historical Data
+- Source: Yahoo Finance [Novo Nordisk Historical Data](https://sg.finance.yahoo.com/quote/NOVO-B.CO/history)
 
 `Approach`
 
